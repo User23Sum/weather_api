@@ -1,13 +1,13 @@
 {
   "name": "weather_api",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "The Weather API, Week 3 + BlockChain",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
   },
   "license": "MIT",
-  "author": "Lucian Duta",
+  "author": "Summit Limbu",
   "scripts": {
     "start": "node dist/src/server.js",
     "dev": "nodemon dist/src/server.js",
